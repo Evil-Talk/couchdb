@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEvil-Talk%2Fcouchdb.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEvil-Talk%2Fcouchdb?ref=badge_shield)
+
 Apache CouchDB README
 =====================
 
@@ -111,3 +113,7 @@ source code.
 The following provides more details on the included cryptographic software:
 
 CouchDB includes a HTTP client (ibrowse) with SSL functionality.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEvil-Talk%2Fcouchdb.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEvil-Talk%2Fcouchdb?ref=badge_large)
